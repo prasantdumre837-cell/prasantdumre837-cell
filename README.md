@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently studying **B.Sc.CSIT under Tribhuvan University and I am currently in 5th Semester.**
 
-- 🌱 I’m currently learning **Full-Stack Development**
+- 🌱 I’m currently learning **Full-Stack Development.**
 
 - 💬 Ask me about **React.js, Node.js**
 
-- 📫 How to reach me **prasantdumre837@gmail.com**
+- 📫reach me via **prasantdumre837@gmail.com**
 
 - ⚡ Fun fact **When I am not coding I will be focusing on my academic syllabus or I will be somewhere traveling and exploring the natural beauty of environment.**
 
