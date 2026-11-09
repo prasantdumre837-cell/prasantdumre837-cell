@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Prashant Dumre</h1>
+<h1 align="center">I'm Prashant Dumre</h1>
 <h3 align="center">A passionate Full-Stack developer from Nepal.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasantdumre837-cell&label=Profile%20views&color=0e75b6&style=flat" alt="prasantdumre837-cell" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasantdumre837-cell" alt="prasantdumre837-cell" /></a> </p>
 
 - 🔭 I’m currently studying **B.Sc.CSIT under Tribhuvan University and I am currently in 5th Semester.**
 
@@ -17,9 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/prashant dumre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prashant dumre" height="30" width="40" /></a>
-<a href="https://fb.com/prashant dumre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prashant dumre" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/prashant infix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="prashant infix" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/prashant-dumre-b05388370/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prashant-dumre-b05388370/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/prasant.dumre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/prasant.dumre" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/prsnt___03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/prsnt___03/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@prashantdumre5707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@prashantdumre5707" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,4 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasantdumre837-cell&show_icons=true&locale=en" alt="prasantdumre837-cell" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prasantdumre837-cell&" alt="prasantdumre837-cell" /></p>
-
