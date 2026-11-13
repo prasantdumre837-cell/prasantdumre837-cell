@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React.js, Node.js**
 
-- 📫reach me via **prasantdumre837@gmail.com**
+- 📫reach me via : **prasantdumre837@gmail.com**
 
 - ⚡ Fun fact : **When I am not coding I will be focusing on my academic syllabus or I will be somewhere traveling and exploring the natural beauty of environment.**
 
