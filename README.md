@@ -11,7 +11,7 @@
 
 - 📫reach me via : **prasantdumre837@gmail.com**
 
-- ⚡ Fun fact : **When I am not coding I will be focusing on my academic syllabus or I will be somewhere traveling and exploring the natural beauty of environment.**
+- ⚡ Fun fact : **When I am not coding, I will be focusing on my academic syllabus or I will be somewhere traveling and exploring the natural beauty of environment.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
